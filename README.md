@@ -1,7 +1,7 @@
 # USB3
 Main plugin of UnioCraft Skyblock server. Created in 2015 and kept getting updates until 2020. Uploaded for archive purposes.
 
-**Note:** It's so far away from SOLID, DRY or Agile structures. I created it's structure when I was a complete newbie. So it's hard to read and maintain. I don't recommend anyone to use it but it has some good solutions to many problems. Also even though it's ugly, it's fully functional so it work lol.
+**Note:** It's so far away from SOLID, DRY or Agile structures. I created it's structure when I was a complete newbie. So it's hard to read and maintain. I don't recommend anyone to use it but it has some good solutions to many problems. Also even though it's ugly, it's fully functional so it works lol.
 
 ## Features
 - Automatic ranking depending on Island level.
