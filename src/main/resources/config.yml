@@ -1,0 +1,142 @@
+database:
+  ip: ''
+  port: 3306
+  dbname: skyblock
+  user: skyblock
+  pass: ''
+discord:
+  host: 'discord.uniocraft.com'
+  port: 12345
+topweeklyPrizes:
+  1: 50
+  2: 30
+  3: 20
+range: 16
+breed-limit: 16
+natural-limit: 16
+spawner-limit-enabled: true
+spawner-limit: 48
+spawnegg-limit: 16
+vipmesaj: "§2[§bUnioCraft§2] §aKullanım: §f/vipodul <tür>\n§2[§bUnioCraft§2] §aTürler: §rVIP, UVIP"
+ucmaengelmesaj: "&4&LUNIO &2&l-> &cBu alanda uçamazsınız!"
+updatetopten: true
+lastCalculation: 0
+izinsiz-regions:
+- World:arena
+- World:aktifmoblar
+izinli-komutlar:
+- island
+- is
+- challenges
+- c
+- challenge
+- asc
+- aschallenge
+- market
+- warp
+- spawner
+- ct
+- ctplus
+- logout
+- ctpluslogout
+- ctlog
+- balance
+- bal
+- money
+- clearinventory
+- clear
+- ci
+- ignore
+- itemdb
+- iteminfo
+- kit
+- list
+- mail
+- motd
+- msg
+- w
+- m
+- t
+- pm
+- tell
+- msgtoggle
+- pay
+- paytoggle
+- r
+- reply
+- rules
+- sell
+- elsat
+- envsat
+- spawn
+- tpa
+- tpask
+- call
+- tpahere
+- tpaccept
+- tpdeny
+- tpacancel
+- tptoggle
+- lockette
+- lock
+- auc
+- auction
+- sauc
+- bid
+- sc
+- trade
+- kredi
+- spawnerkullan
+- komutlar
+- help
+- vip
+- uvip
+- kurallar
+- renk
+- hub
+- lobi
+- sg
+- hg
+- hungergames
+- survivalgames
+- skyblock2
+- factions
+- hackpvp
+- kitpvp
+- asitadasi
+- skull
+- duyuru
+- back
+- enderchest
+- feed
+- fix
+- fly
+- hat
+- heal
+- ptime
+- recipe
+- repair
+- sealedauction
+- tpno
+- tpyes
+- vipodul
+- uvipodul
+- wb
+- workbench
+- worth
+izinli-komutlar-mod:
+- bminfo
+- kick
+- socialspy
+- fly
+- god
+- invsee
+- speed
+- tp
+- tphere
+- tpo
+- vanish
+- whois
+- ncp
+- kilitkir
+- asadmin

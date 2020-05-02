@@ -1,0 +1,69 @@
+author: UnioDex
+main: net.uniodex.USB3.Main
+name: USB3
+url: http://uniocraft.com/
+version: 3.0
+depend: [Vault, ASkyBlock, ObsidianAuctions, BossShopPro]
+softdepend: [MineResetLite, HolographicDisplays, Essentials]
+
+commands:
+  hub:
+    description: Aciklama
+  lobi:
+    description: Aciklama
+  lobby:
+    description: Aciklama
+  hg:
+    description: Aciklama
+  sg:
+    description: Aciklama
+  survivalgames:
+    description: Aciklama
+  hungergames:
+    description: Aciklama
+  kitpvp:
+    description: Aciklama
+  hackpvp:
+    description: Aciklama
+  factions:
+    description: Aciklama
+  skyblock:
+    description: Aciklama
+  skyblock2:
+    description: Aciklama
+  asitadasi:
+    description: Aciklama
+  skylordyap:
+    description: Aciklama
+  skykingyap:
+    description: Aciklama
+  skygodyap:
+    description: Aciklama
+  renk:
+    description: Aciklama
+  vip:
+    description: Aciklama
+  uvip:
+    description: Aciklama
+  komutlar:
+    description: Aciklama
+  kurallar:
+    description: Aciklama
+  help:
+    description: Aciklama
+  kafa:
+    description: Aciklama
+  duyuru:
+    description: Aciklama
+  elsat:
+    description: Aciklama
+  envsat:
+    description: Aciklama
+  iteminfo:
+    description: Aciklama
+  blokdepo:
+    description: Aciklama
+  topweekly:
+    description: Aciklama
+  sanalblok:
+    description: Aciklama
